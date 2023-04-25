@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cnh1116, Carson Holland.
 
-- 👀 I’m interested in ... performance evaluation, computer architecture, coding, math, digital logic and all things EE related!
+- 👀 I’m interested in ... computer architecture, coding, math, digital logic and all things CE related!
 
 - 🌱 I’m currently learning ... HDL, Power Electronics, and Operating Systems!
 
